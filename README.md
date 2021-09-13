@@ -1,4 +1,4 @@
-# OOP
-LR OOP
-Student: Хлыстов Глеб Георгиевич
-Group: POIT 6-2 
+# OOP Labs 
+LR OOP;
+Student: Хлыстов Глеб Георгиевич;
+Group: ПОИТ 6-2;
